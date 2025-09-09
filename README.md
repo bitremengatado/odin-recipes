@@ -1,10 +1,10 @@
 # odin-recipes
 TOP HTML Project
 
-This is a HTML project for "The Odin Project" curriculum. The objective is to create a ficticious recipe website with only HTML.
+This is a HTML project for "The Odin Project" curriculum. The objective is to create a fictitious recipe website with only HTML.
 
 Attributions:
-Ricotta Cheescake
+Ricotta cheesecake
     image: https://anemptystomachisthebestcook.blogspot.com/2010/06/italian-ricotta-cheesecake.html
     recipe: Dessert Person by Claire Saffitz
 
